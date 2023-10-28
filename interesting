@@ -1,1 +1,2 @@
 Si pasamos null por el operador typeof, nos dara como salida objeto
+Con las variables var, no existen los ambitos de variable o scopes
