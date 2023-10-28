@@ -1,1 +1,0 @@
-El condicional rapido "val ? x : y" usa implicitamente ==, o ===
