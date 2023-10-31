@@ -1,2 +1,2 @@
-Si pasamos null por el operador typeof, nos dara como salida objeto
+Si pasamos null por el operador typeof, nos dara como salida objeto, y es un bug reconocido
 Con las variables var, no existen los ambitos de variable o scopes
