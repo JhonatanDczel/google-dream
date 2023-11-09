@@ -1,3 +1,3 @@
-Si pasamos null por el operador typeof, nos dara como salida objeto, y es un bug reconocido
-Con las variables var, no existen los ambitos de variable o scopes
-Valores que comparados son iguales, dan diferente salida en el metodo Boolean()
+Si pasamos null por el operador typeof, nos dara como salida objeto, y es un bug reconocido (f2 primer link)
+Con las variables var, no existen los ambitos de variable o scopes (old var f1)
+Los valores por defecto de las funciones (f3 4 js.info)
