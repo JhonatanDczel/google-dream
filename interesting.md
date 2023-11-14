@@ -5,3 +5,4 @@
 * Operador ?? para verificar el estado null/undefined de una variable (f3 4 js.info)
 * Function Expression vs Function Declaration (f3 5 js.info)
 * Styles css en console.log
+* indexOf vs includes, includes handles NaN correctly ([🔗 JavScript.info](https://javascript.info/array-methods#indexof-lastindexof-and-includes))
