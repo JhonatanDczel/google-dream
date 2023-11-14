@@ -6,3 +6,4 @@
 * Function Expression vs Function Declaration (f3 5 js.info)
 * Styles css en console.log
 * indexOf vs includes, includes handles NaN correctly ([🔗 JavScript.info](https://javascript.info/array-methods#indexof-lastindexof-and-includes))
+* Al usar el metodo sort, si no se introduce una funcion, se toma el orden por string por defecto, esto hace que `[3, 15, 1]` se ordene como `[1, 15, 3]`
